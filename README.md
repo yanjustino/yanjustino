@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-### Yan Justino
-MSc. Software Engineering  
-Senior Software Engineer at XP Inc   
-MCP | MCSA | MCSD | OCA
+## Yan Justino
+MSc. Software Engineering
+Senior Software Engineer at XP Inc
+MCP | MCSA | MCSD | OCA  
+
+---
 
 I am a professional focused on adopting good software engineering practices; 20 years of experience dedicated to building robust corporate software solutions. Currently, I am a Software Engineer at XP Inc. In addition, I have a master's degree in Software Engineering from the graduate program of the Metropole Digital Institute (IMD) / UFRN. 
 
