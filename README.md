@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## Yan Justino
+### Yan Justino
 MSc. Software Engineering  
 Senior Software Engineer at XP Inc  
 MCP | MCSA | MCSD | OCA  
