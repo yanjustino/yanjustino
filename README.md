@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### Yan Justino
+MSc. Software Engineering  
+Senior Software Engineer at XP Inc   
+MCP | MCSA | MCSD | OCA
+
 <!--
 **yanjustino/yanjustino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
