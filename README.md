@@ -5,7 +5,7 @@ MCP | MCSA | MCSD | OCA
 
 ---
 
-I am a professional focused on adopting good software engineering practices; 20 years of experience dedicated to building robust corporate software solutions. Currently, I am a Software Engineer at XP Inc. In addition, I have a master's degree in Software Engineering from the graduate program of the Metropole Digital Institute (IMD) / UFRN. 
+Hi! My name is Yan Justino. I'm a professional focused on adopting good software engineering practices; 20 years of experience dedicated to building robust corporate software solutions. Currently, I am a Software Engineer at XP Inc. In addition, I have a master's degree in Software Engineering from the graduate program of the Metropole Digital Institute (IMD) / UFRN. 
 
 <!--
 **yanjustino/yanjustino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
