@@ -12,7 +12,15 @@ Hi! My name is Yan Justino. I'm a professional focused on adopting good software
 <table>
   <tbody>
     <tr>
-      <td>![dotnet](https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/dot-net/dot-net-plain-wordmark.svg)</td>
+      <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" width="96px" />
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" width="96px" />
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" width="96px" />
+      </td>
     </tr>
   </tbody>
 </table>
