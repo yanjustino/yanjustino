@@ -2,7 +2,8 @@
 MSc. Software Engineering  
 Senior Software Engineer at [XP Inc](https://www.xpinc.com/)  
 :link:[MCP | MCSA | MCSD | OCA](https://www.youracclaim.com/users/yan-justino/badges)  
-:link:[https://www.linkedin.com/in/yanjustino/](https://www.linkedin.com/in/yanjustino/)
+:link:[https://www.linkedin.com/in/yanjustino/](https://www.linkedin.com/in/yanjustino/)  
+:link:[ORCID - 0000-0001-7248-716X](https://orcid.org/0000-0001-7248-716X)
 
 Hi! My name is Yan Justino. I'm a professional focused on adopting good software engineering practices; 20 years of experience dedicated to building robust corporate software solutions. Currently, I am a Software Engineer at XP Inc. In addition, I have a master's degree in Software Engineering from the graduate program of the Metropole Digital Institute (IMD) / UFRN. 
 
