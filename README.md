@@ -1,6 +1,6 @@
 ### YAN JUSTINO
 MSc. Software Engineering  
-Senior Software Engineer at XP Inc  
+Senior Software Engineer at [XP Inc](https://www.xpinc.com/)  
 :link:[MCP | MCSA | MCSD | OCA](https://www.youracclaim.com/users/yan-justino/badges)  
 :link:[https://www.linkedin.com/in/yanjustino/](https://www.linkedin.com/in/yanjustino/)
 
