@@ -9,7 +9,28 @@ Hi! My name is Yan Justino. I'm a professional focused on adopting good software
 
 ### TECHNOLOGY STACK
 
-#### CODE LANGUAGES and PLATAFORMS
+#### MAIN CODE LANGUAGES and PLATAFORMS
+
+| Tecnhology | Description |
+| --- | :----------- |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" width="64px" /> | Since 2007 working with dotnet stack such as **dotnet core, C#, Asp.net MVC, Asp.net core, Asp.net WEB API, dotnet services, windowsforms and XAML** |
+
+
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" width="64px" />
+      </td>
+      <td>
+        <h5>dotnet core, C#, Asp.net MVC, Asp.net core, Asp.net webapi, dotnet services, windowsforms</h5>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 <table>
   <tbody>
     <tr>
