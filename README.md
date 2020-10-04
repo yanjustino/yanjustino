@@ -9,7 +9,7 @@ Hi! My name is Yan Justino. I'm a professional focused on adopting good software
 
 ### TECHNOLOGY STACK
 
-#### LANGUAGES
+#### CODE LANGUAGES and PLATAFORMS
 <table>
   <tbody>
     <tr>
@@ -17,13 +17,16 @@ Hi! My name is Yan Justino. I'm a professional focused on adopting good software
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" width="64px" />
       </td>
       <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" width="64px" />
-      </td>
-      <td>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" width="64px" />
       </td>
       <td>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-plain.svg" width="64px" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" width="64px" />
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg" width="64px" />
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="64px" />
       </td>
       <td>
         <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="64px" />
