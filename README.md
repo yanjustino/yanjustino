@@ -3,11 +3,11 @@ MSc. Software Engineering
 Senior Software Engineer at XP Inc  
 MCP | MCSA | MCSD | OCA  
 
----
-
 Hi! My name is Yan Justino. I'm a professional focused on adopting good software engineering practices; 20 years of experience dedicated to building robust corporate software solutions. Currently, I am a Software Engineer at XP Inc. In addition, I have a master's degree in Software Engineering from the graduate program of the Metropole Digital Institute (IMD) / UFRN. 
 
 ---
+
+### TECHNOLOGY STACK
 
 <table>
   <tbody>
@@ -19,7 +19,7 @@ Hi! My name is Yan Justino. I'm a professional focused on adopting good software
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" width="96px" />
       </td>
       <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" width="96px" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" width="96px" />
       </td>
     </tr>
   </tbody>
