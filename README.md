@@ -12,11 +12,11 @@ Hi! My name is Yan Justino. I'm a professional focused on adopting good software
 
 #### APPROACHES, ESPECIFICATIONS AND TECHNIQUES
 
-
-- **Communication**
-- **Planning**: Agile, SCRUM, XP
-- **Modeling**: OOAD, DDD, TDD, BDD, UML, C4 Model
-
+- **Communication**: CRC, BoAT, XP
+- **Planning**: Agile practices, SCRUM, Kamban
+- **Modeling**: BMPN, OOAD, DDD, UML, C4 Model
+- **Construction**: TDD, BDD, OOP, SOA, EDA
+- **Delivery**: DevOps practices
 
 #### MAIN CODE LANGUAGES and PLATAFORMS
 
