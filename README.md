@@ -9,18 +9,28 @@ Hi! My name is Yan Justino. I'm a professional focused on adopting good software
 
 ### TECHNOLOGY STACK
 
+#### LANGUAGES
 <table>
   <tbody>
     <tr>
       <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" width="96px" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" width="64px" />
       </td>
       <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" width="96px" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" width="64px" />
       </td>
       <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" width="96px" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" width="64px" />
       </td>
+      <td>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-plain.svg" width="64px" />
+      </td>
+      <td>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="64px" />
+      </td>      
+      <td>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="64px" />
+      </td>            
     </tr>
   </tbody>
 </table>
