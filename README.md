@@ -13,8 +13,9 @@ Hi! My name is Yan Justino. I'm a professional focused on adopting good software
 #### MAIN CODE LANGUAGES and PLATAFORMS
 
 | Tecnhology | Description |
-| --- | :----------- |
+| :---: | :----------- |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" width="64px" /> | Since 2007 working with dotnet stack such as **dotnet core, C#, Asp.net MVC, Asp.net core, Asp.net WEB API, dotnet services, windowsforms and XAML** |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" width="64px" /> | Developing solutions using the mains concepts of docker for **building images, volumes, services and composing containers with Docker Compose** |
 
 
 
