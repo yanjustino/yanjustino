@@ -18,50 +18,6 @@ Hi! My name is Yan Justino. I'm a professional focused on adopting good software
 
 
 
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" width="64px" />
-      </td>
-      <td>
-        <h5>dotnet core, C#, Asp.net MVC, Asp.net core, Asp.net webapi, dotnet services, windowsforms</h5>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" width="64px" />
-      </td>
-      <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" width="64px" />
-      </td>
-      <td>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" width="64px" />
-      </td>
-      <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg" width="64px" />
-      </td>
-      <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="64px" />
-      </td>
-      <td>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="64px" />
-      </td>      
-      <td>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="64px" />
-      </td>            
-    </tr>
-  </tbody>
-</table>
-
-
-
 <!--
 **yanjustino/yanjustino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
