@@ -8,7 +8,15 @@ Hi! My name is Yan Justino. I'm a professional focused on adopting good software
 
 ---
 
-### TECHNOLOGY STACK
+### SOFTWARE ENGINEERING
+
+#### APPROACHES, ESPECIFICATIONS AND TECHNIQUES
+
+
+- **Communication**
+- **Planning**: Agile, SCRUM, XP
+- **Modeling**: OOAD, DDD, TDD, BDD, UML, C4 Model
+
 
 #### MAIN CODE LANGUAGES and PLATAFORMS
 
@@ -18,6 +26,8 @@ Hi! My name is Yan Justino. I'm a professional focused on adopting good software
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" width="58px" /> | I've developing solutions using the mains concepts of docker for **building images, volumes, services and composing containers with Docker Compose** |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" width="58px" /> | I've controlling code versions using commons workflows of git and their branch strategies. Also, I had worked with tools such as **gitlab, gitlab - ci/cd, github, github actions** |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="58px" /> | I've building front-end solution such as SPA and PWA, using **Javascript and Typescript** languages and **Angular and React**. Also, I've using stylesheet frameworks such as Bootstrap and Google Material Design for building modern UIs. |
+
+
 
 <!--
 **yanjustino/yanjustino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
