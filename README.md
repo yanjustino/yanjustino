@@ -26,7 +26,7 @@ Hi! My name is Yan Justino. I'm a professional focused on adopting good software
 | .NET | Since 2007 I've working with dotnet using tools such as: **dotnet core, C#, Asp.net MVC, Asp.net core, Asp.net WEB API, dotnet services, windowsforms and XAML** |
 | Docker| I've developing solutions using the mains concepts of docker for **building images, volumes, services and composing containers with Docker Compose** |
 | GIT | I've controlling code versions using commons workflows of git and their branch strategies. Also, I had worked with tools such as **gitlab, gitlab - ci/cd, github, github actions** |
-| Front | I've building front-end solution such as SPA and PWA, using **Javascript and Typescript** languages and **Angular and React**. Also, I've using stylesheet frameworks such as Bootstrap and Google Material Design for building modern UIs. |
+| Front | I've building front-end solution such as SPA and PWA, using **Javascript and Typescript** languages and **Angular and React**. |
 
 
 
