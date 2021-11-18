@@ -1,3 +1,10 @@
+
+[![Twitter](https://img.shields.io/badge/-@yanjustino-1ca0f1?&logoColor=white&logo=Twitter&style=flat-square&link=https://twitter.com/yanjustino)](https://twitter.com/yanjustino)
+[![LinkedIn](https://img.shields.io/badge/-Yan%20Justino-blue?logo=LinkedIn&style=flat-square&link=https://www.linkedin.com/in/yanjustino/)](https://www.linkedin.com/in/yanjustino/)
+[![Medium Badge](https://img.shields.io/badge/-yanjustino-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/yanjustino)](https://medium.com/yanjustino)
+[![GitHub](https://img.shields.io/badge/-yanjustino-black?logo=GitHub&style=flat-square&link=https://github.com/yanjustino?tab=repositories)](https://github.com/yanjustino?tab=repositories)
+[![researchgate](https://img.shields.io/badge/-yanjustino-black?logo=researchgate&style=flat-square&link=https://www.researchgate.net/profile/Yan-Justino-2)](https://www.researchgate.net/profile/Yan-Justino-2)
+
 ### YAN JUSTINO
 MSc. Software Engineering  
 Senior Software Engineer at [XP Inc](https://www.xpinc.com/)  
