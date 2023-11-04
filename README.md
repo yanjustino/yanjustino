@@ -4,7 +4,8 @@
 [![GitHub](https://img.shields.io/badge/-yanjustino-black?logo=GitHub&style=flat-square&link=https://github.com/yanjustino?tab=repositories)](https://github.com/yanjustino?tab=repositories)
 [![researchgate](https://img.shields.io/badge/-yanjustino-black?logo=researchgate&style=flat-square&link=https://www.researchgate.net/profile/Yan-Justino-2)](https://www.researchgate.net/profile/Yan-Justino-2)
 
-## ABOUT ME
+## ABOUT
+
 **YAN JUSTINO**  
 MSc. Software Engineering | PhD. Student | Tech Lead at ITAÚ Unibanco
 
