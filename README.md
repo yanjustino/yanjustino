@@ -1,6 +1,6 @@
 ## ABOUT
-
-**YAN JUSTINO**  
+> [!NOTE]\
+> YAN JUSTINO  
 [MSc. Software Engineering](https://repositorio.ufrn.br/handle/123456789/26370) · [PhD. Student](https://www.cesar.school/doutorado-profissional-em-engenharia-de-software/)  
 [AWS](https://www.youracclaim.com/users/yan-justino/badges) · [MCSD](https://www.youracclaim.com/users/yan-justino/badges) · [OCA](https://www.youracclaim.com/users/yan-justino/badges) · [ORCID](https://orcid.org/0000-0001-7248-716X)  · [Tech Lead at ITAÚ Unibanco]()  
 
@@ -16,8 +16,8 @@ In addition to my industry experience, I am pursuing a Ph.D. at CESAR SCHOOL, wh
 Please feel free to get in touch with me to explore potential areas of collaboration in the field of software engineering, technology, and beyond.
 
 ## APPROACHES, AND TECHNIQUES
-
-:small_orange_diamond:`COMMUNICATION:` BPMN · Event storming · CRC · BoAT  :small_orange_diamond:`PLANNING:` Agile Methodologies · SCRUM · KAMBAN :small_orange_diamond:`MODELING:` Event-Driven Architecture · Domain-Driven Design (DDD) · Design Patterns · Pattern-Oriented Software Architecture · SOA · Microservices :small_orange_diamond:`CONSTRUCTION:` dotnet · C# · TDD · Test Automation · git ·  SQL ·  Postegresql · Oracle · Redis · REST APIs · RabbitMQ · Docker · Kubernetes :small_orange_diamond:`DELIVERY:` · GitFlow · GitOps · Continuous Integration · Continuous Delivery · Datadog · Apache Kafka ·  Grafana · Microsoft Azure · AWS 
+> [!NOTE]\
+> [COMMUNICATION:]() BPMN · Event storming · CRC · BoAT [PLANNING:]() Agile Methodologies · SCRUM · KAMBAN [MODELING:]() Event-Driven Architecture · Domain-Driven Design (DDD) · Design Patterns · Pattern-Oriented Software Architecture · SOA · Microservices [CONSTRUCTION:]() dotnet · C# · TDD · Test Automation · git ·  SQL ·  Postegresql · Oracle · Redis · REST APIs · RabbitMQ · Docker · Kubernetes [DELIVERY:]() GitFlow · GitOps · Continuous Integration · Continuous Delivery · Datadog · Apache Kafka ·  Grafana · Microsoft Azure · AWS 
 
 
 <!--
